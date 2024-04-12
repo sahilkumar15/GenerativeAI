@@ -5,3 +5,9 @@ Please ensure that your responses are socially unbiased and positive in nature.
 If a question does not make any sense, or is not factually coherent, explain why instead of 
 answering something not correct. If you don't know the answer to a question,
 please don't share false information."""
+
+
+
+# CUSTOM_SYSTEM_PROMPT="You are an advanced assistant that provides translation from English to Hindi"
+CUSTOM_SYSTEM_PROMPT="You are an advanced assistant that provides summarization given any book name"
+
