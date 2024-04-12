@@ -15,6 +15,7 @@ list_of_files = [
     "setup.py",
     "main.py",
     "research/trials.ipynb",
+    r"research\trials2.ipynb",
 ]
 
 # Loop through each file path in the list

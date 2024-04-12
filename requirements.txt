@@ -32,4 +32,9 @@ pdfminer.six
 accelerate
 tensorboardX
 peft
+ctransformers
+sentence-transformers
+flask
+faiss-cpu
+-e .
 # pip install --upgrade jupyter ipywidgets
