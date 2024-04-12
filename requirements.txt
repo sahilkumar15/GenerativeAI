@@ -37,5 +37,7 @@ sentence-transformers
 flask
 faiss-cpu
 langchain-community
+bitsandbytes
+trl
 # -e .
 # pip install --upgrade jupyter ipywidgets
