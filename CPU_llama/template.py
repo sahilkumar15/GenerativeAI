@@ -17,6 +17,9 @@ list_of_files = [
     "main.py",
     "research/trials.ipynb",
     r"research\trials2.ipynb",
+    "templates/index.html",
+    "static/jquery.min.js",
+    
 ]
 
 # Loop through each file path in the list
