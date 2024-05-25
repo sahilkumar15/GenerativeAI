@@ -8,7 +8,7 @@ FineTune_Llama_Custom_data/results
 Llama-2-7b-chat-new-finetune
 
 # # Ignore the environment file
-# Source_code_analysis/.env
+Source_code_analysis/.env
 
-# Ignore the test repository directory
-Source_code_analysis/test_repo
+# # Ignore the test repository directory
+# Source_code_analysis/test_repo
