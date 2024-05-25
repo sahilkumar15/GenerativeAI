@@ -13,3 +13,4 @@ Source_code_analysis/.env
 # # Ignore the test repository directory
 # Source_code_analysis/test_repo
 
+Source_code_analysis/data

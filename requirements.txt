@@ -39,4 +39,5 @@ bert_score
 evaluate
 wandb
 GitPython #clone the repository
+chromadb
 # pip install --upgrade jupyter ipywidgets
