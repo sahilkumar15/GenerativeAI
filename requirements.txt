@@ -32,12 +32,10 @@ pdfminer.six
 accelerate
 tensorboardX
 peft
-ctransformers
-sentence-transformers
-flask
-faiss-cpu
-langchain-community
-bitsandbytes
 trl
-# -e .
+tiktoken
+seaborn
+bert_score
+evaluate
+wandb
 # pip install --upgrade jupyter ipywidgets
