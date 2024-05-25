@@ -38,4 +38,5 @@ seaborn
 bert_score
 evaluate
 wandb
+GitPython #clone the repository
 # pip install --upgrade jupyter ipywidgets
