@@ -1,4 +1,14 @@
-CPU_llama/model/llama-2-7b-chat.ggmlv3.q4_0.bin
+# Ignore the LLaMA model binary file
+CPU_llama/model
+
+# Ignore the FineTune results directory
 FineTune_Llama_Custom_data/results
+
+# Ignore the new finetune directory
 Llama-2-7b-chat-new-finetune
-.env
+
+# Ignore the environment file
+Source_code_analysis/.env
+
+# Ignore the test repository directory
+Source_code_analysis/test_repo
