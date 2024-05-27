@@ -41,4 +41,8 @@ evaluate
 wandb
 GitPython #clone the repository
 chromadb
+llama-index
+llama-index-llms-huggingface
+llama-index-embeddings-huggingface
+llama-index-embeddings-instructor
 # pip install --upgrade jupyter ipywidgets
