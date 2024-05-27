@@ -45,4 +45,5 @@ llama-index
 llama-index-llms-huggingface
 llama-index-embeddings-huggingface
 llama-index-embeddings-instructor
+llama-index-vector-stores-weaviate
 # pip install --upgrade jupyter ipywidgets
