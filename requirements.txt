@@ -40,10 +40,26 @@ bert_score
 evaluate
 wandb
 GitPython #clone the repository
+# pip install --upgrade jupyter ipywidgets
 chromadb
 llama-index
 llama-index-llms-huggingface
 llama-index-embeddings-huggingface
 llama-index-embeddings-instructor
 llama-index-vector-stores-weaviate
-# pip install --upgrade jupyter ipywidgets
+llama-index-vector-stores-lancedb
+llama-index-multi-modal-llms-openai
+llama-index-embeddings-clip
+ftfy 
+regex 
+tqdm
+openai-whisper
+matplotlib
+scikit-image
+lancedb
+moviepy
+pytube
+pydub
+SpeechRecognition
+ffmpeg-python
+soundfile
