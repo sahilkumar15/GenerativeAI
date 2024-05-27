@@ -64,3 +64,4 @@ pydub
 SpeechRecognition
 ffmpeg-python
 soundfile
+git+https://github.com/openai/CLIP.git
