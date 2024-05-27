@@ -20,3 +20,5 @@ Rag_from_scratch/.env
 Rag_from_scratch/train_test_qa_url.txt
 # Rag_from_scratch/RAG_From_Scratch_and_with_Langchain-2
 # Rag_from_scratch/rag_from_scratch_2.ipynb
+
+Access_APIs_Using_Langchain/.env
