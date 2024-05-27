@@ -15,3 +15,7 @@ Source_code_analysis/.env
 
 Source_code_analysis/data
 Source_code_analysis/db
+
+Rag_from_scratch/.env
+Rag_from_scratch/train_test_qa_url.txt
+Rag_from_scratch

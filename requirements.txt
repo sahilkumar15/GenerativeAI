@@ -35,6 +35,7 @@ peft
 trl
 tiktoken
 seaborn
+weaviate-client
 bert_score
 evaluate
 wandb
