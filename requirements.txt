@@ -50,6 +50,7 @@ llama-index-vector-stores-weaviate
 llama-index-vector-stores-lancedb
 llama-index-multi-modal-llms-openai
 llama-index-embeddings-clip
+llama-index-readers-file
 ftfy 
 regex 
 tqdm
