@@ -66,3 +66,4 @@ ffmpeg-python
 soundfile
 git+https://github.com/openai/CLIP.git
 ragas
+chainlit
