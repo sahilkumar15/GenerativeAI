@@ -67,3 +67,5 @@ soundfile
 git+https://github.com/openai/CLIP.git
 ragas
 chainlit
+python-magic-bin
+
