@@ -68,4 +68,8 @@ git+https://github.com/openai/CLIP.git
 ragas
 chainlit
 python-magic-bin
-
+trl
+py7zr
+auto-gptq
+optimum
+git+https://github.com/huggingface/transformers

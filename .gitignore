@@ -25,3 +25,6 @@ Access_APIs_Using_Langchain/.env
 Rag_from_scratch/lancedb
 
 Rag_from_scratch/state_of_the_union.txt
+
+Finetune/.env
+Finetune/misteral-finetuned-samsum
