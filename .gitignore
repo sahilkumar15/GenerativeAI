@@ -29,3 +29,5 @@ Rag_from_scratch/state_of_the_union.txt
 Finetune/.env
 Finetune/misteral-finetuned-samsum
 FineTune/wandb
+
+Finetune_gpt_zephyr/.env
