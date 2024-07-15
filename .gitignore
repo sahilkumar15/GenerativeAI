@@ -31,3 +31,5 @@ Finetune/misteral-finetuned-samsum
 FineTune/wandb
 
 Finetune_gpt_zephyr/.env
+
+23-LCEL/.env
