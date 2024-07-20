@@ -74,4 +74,6 @@ langchain_groq
 langchain_core
 auto-gptq
 optimum
+langserve[all]
+sse_starlette
 git+https://github.com/huggingface/transformers
